@@ -1,0 +1,8 @@
+path: /kaggle/input/drowsiness-detection-augmented-data/augmented_dataset
+train: /kaggle/input/drowsiness-detection-augmented-data/augmented_dataset/images/train
+val: /kaggle/input/drowsiness-detection-augmented-data/augmented_dataset/images/val
+nc: 3
+names:
+  0: eyes_closed
+  1: eyes_open
+  2: yawning

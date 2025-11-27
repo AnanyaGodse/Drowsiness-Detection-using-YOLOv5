@@ -1,0 +1,21 @@
+{
+  "model_path": "runs/drowsiness/yolov5_final/weights/best.pt",
+  "training_completed": true,
+  "metrics": {
+    "mAP_50": 0.9917777777777778,
+    "mAP_50_95": 0.7720151134290986,
+    "precision": 0.96992464053115,
+    "recall": 0.9543457581034841
+  },
+  "per_class_metrics": {
+    "eyes_closed": {
+      "mAP_50": 0.7315954476190478
+    },
+    "eyes_open": {
+      "mAP_50": 0.8007555306267807
+    },
+    "yawning": {
+      "mAP_50": 0.7836943620414674
+    }
+  }
+}

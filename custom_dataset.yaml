@@ -1,6 +1,0 @@
-
-path: /kaggle/input/dataset/final_dataset
-train: images/train
-val: images/val
-nc: 3
-names: ['eyes_closed', 'eyes_open', 'yawning']

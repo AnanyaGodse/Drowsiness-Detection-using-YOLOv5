@@ -127,4 +127,4 @@ MIT License
 ## Acknowledgments
 
 - YOLOv5 by Ultralytics
-- Dataset collected and annotated manually
+- Dataset collected and annotated manually - it can be found at https://drive.google.com/drive/folders/1fFgNm9EoWftPsxFcINbP1lcAV0IGXwFt?usp=drive_link

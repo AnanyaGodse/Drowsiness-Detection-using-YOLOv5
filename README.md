@@ -100,10 +100,11 @@ results = test_on_video(
 
 ### Performance Curves
 
-![F1 Curve](runs/detect/train/F1_curve.png)
-![Precision Curve](runs/detect/train/P_curve.png)
-![Recall Curve](runs/detect/train/R_curve.png)
-![Confusion Matrix](runs/detect/train/confusion_matrix.png)
+![F1 Curve](results/BoxF1_curve.png)
+![Precision Curve](results/BoxP_curve.png)
+![Recall Curve](results/BoxR_curve.png)
+![Precision-Recall Curve](results/BoxPR_curve.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ## Training Details
 
@@ -118,8 +119,6 @@ The model was trained with:
 - Add head pose estimation for better drowsiness detection
 - Implement audio alerts
 - Add support for multiple face detection
-- Deploy as a lightweight mobile application
-- Integrate with vehicle control systems
 
 ## License
 
